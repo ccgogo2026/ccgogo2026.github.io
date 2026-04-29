@@ -1,1 +1,1 @@
-# ccgogo2026.github.io
+# ccgogo.github.io
