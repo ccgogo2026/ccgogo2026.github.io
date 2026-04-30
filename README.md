@@ -13,4 +13,4 @@
 # Contact Me
 
 * **Email:** [ccgogo2024@gmail.com](mailto:ccgogo2024@gmail.com)
-* **The Red 小红书:** [374892789](https://www.xiaohongshu.com/user/profile/386057149)
+* **The Red 小红书:** [374892789](https://www.xiaohongshu.com/)
