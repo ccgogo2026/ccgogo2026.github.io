@@ -6,7 +6,7 @@
 
 # Blog
 
-[Read My Marketing Blog & Insights](https://futuristic-antler-324.notion.site/The-Irreplaceable-Marketer-in-the-Age-of-AI-33cc627111ad80209bc0dd834e098808)
+[Read My Marketing Blog & Insights](https://www.notion.so/Blog-352c627111ad80db91fdfa79d6a40f34)
 
 ---
 
