@@ -1,10 +1,10 @@
-## Marketing Portfolio
-[👉 Click Here to View My Marketing Portfolio (PDF)](https://ccgogo2026.github.io/Cece%20marketing%20profolio.pdf)
+## Portfolio
+[👉 View My Marketing Portfolio (PDF)](https://ccgogo2026.github.io/Cece%20marketing%20profolio.pdf)
 
 ---
 
-## Read My Blog
-[👉 Click Here to Read My Insights & Stories](https://ccgogo2026.github.io/blog.md)
+## ✍️ Blog
+[👉 Read My Marketing Blog & Insights]([https://futuristic-antler-324.notion.site/The-Irreplaceable-Marketer-in-the-Age-of-AI-33cc627111ad80209bc0dd834e098808?source=copy_link]
 
 ---
 
