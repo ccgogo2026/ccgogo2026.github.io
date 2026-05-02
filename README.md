@@ -13,4 +13,5 @@
 ## Contact Me
 
 * **Email:** <a href="mailto:ccgogo2024@gmail.com" style="color: #007bff !important; text-decoration: underline !important;">ccgogo2024@gmail.com</a>
-* **The Red 小红书:** <a href="https://www.xiaohongshu.com/user/profile/386057149" style="color: #007bff !important; text-decoration: underline !important;">386057149</a>
+* **LinkedIn:** <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #007bff !important; text-decoration: underline !important;">Qiao (CC) Xie</a>
+* **The Red 小红书:** <a href="https://xhslink.com/m/2zG9DRbpVmc" style="color: #007bff !important; text-decoration: underline !important;">386057149 (173k+ Likes & Collects)</a>
