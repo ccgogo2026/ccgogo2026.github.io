@@ -1,7 +1,5 @@
-<h1 align="center">CCgogoMKT</h1>
-
 <p align="center">
-Marketing Strategy • Case Lab • Funnel Thinking
+  <img src="./banner.png" width="100%" />
 </p>
 
 ---
