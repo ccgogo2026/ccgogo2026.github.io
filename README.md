@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&height=200&section=header&text=CCgogoMKT&fontSize=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=4b0082&height=200&section=header&text=CCgogoMKT&fontSize=70&fontColor=ffffff" />
 </p>
 
 ---
@@ -16,8 +16,10 @@
 
 ---
 
-## Contact Me
+# Contact Me
 
 * **Email:** <a href="mailto:ccgogo2024@gmail.com" style="color: #007bff !important; text-decoration: underline !important;">ccgogo2024@gmail.com</a>
+
 * **LinkedIn:** <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #007bff !important; text-decoration: underline !important;">Qiao (CC) Xie</a>
+
 * **The Red 小红书:** <a href="https://xhslink.com/m/2zG9DRbpVmc" style="color: #007bff !important; text-decoration: underline !important;">386057149</a>
