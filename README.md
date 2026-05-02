@@ -1,5 +1,7 @@
+<h1 align="center">CCgogoMKT</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&height=200&section=header&text=CCgogoMKT&fontSize=70&fontColor=ffffff" />
+Marketing Strategy • Case Lab • Funnel Thinking
 </p>
 
 ---
