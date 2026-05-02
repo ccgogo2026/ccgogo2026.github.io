@@ -10,11 +10,14 @@
   </table>
 </div>
 
+<br/>
+
 <!-- Portfolio 板块 -->
 <table width="100%" style="margin-bottom: 10px; border-collapse: collapse; border: none;">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em; border-bottom: none;">Portfolio</h3>
+      <!-- 保持相对路径，自动适配新域名 ccgogomkt.github.io -->
       <a href="./Cece%20marketing%20profolio.pdf" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">View My Marketing Portfolio (PDF)</a>
     </td>
   </tr>
