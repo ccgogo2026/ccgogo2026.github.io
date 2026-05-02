@@ -1,10 +1,6 @@
-<div align="center">
-
-<!-- 紫色动态 Banner 代码 -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=4b0082&height=200&section=header&text=CCgogoMKT&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<br/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=8a2be2&height=200&section=header&text=CCgogoMKT&fontSize=70&fontColor=ffffff" />
+</p>
 
 ---
 
