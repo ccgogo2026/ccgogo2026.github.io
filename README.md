@@ -1,17 +1,16 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center" style="background-color: #4b0082; border: none; padding: 50px 20px; border-radius: 12px;">
-        <h2 style="color: #ffffff; font-family: serif; font-style: italic; line-height: 1.5; border-bottom: none; margin: 0; font-weight: 400;">
+      <td align="center" style="background-color: #4b0082; border: none; padding: 60px 30px; border-radius: 15px;">
+        <h2 style="color: #ffffff; font-family: serif; font-style: italic; line-height: 1.6; border-bottom: none; margin: 0; font-weight: 400; letter-spacing: 0.5px;">
           “Marketing is a blend of aesthetic judgment, values, and science.”
         </h2>
       </td>
     </tr>
   </table>
-  <p align="center" style="color: #4b0082; font-weight: bold; margin-top: 15px; letter-spacing: 2px;">
-    CCgogoMKT
-  </p>
 </div>
+
+<br/>
 
 ---
 
