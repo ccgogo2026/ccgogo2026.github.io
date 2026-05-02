@@ -1,9 +1,15 @@
 <div align="center">
-  <h1 style="background-color: #8a2be2; color: white; padding: 40px; border-radius: 10px; margin-bottom: 0;">
+  <table width="100%">
+    <tr>
+      <td align="center" style="background-color: #4b0082; border: none; padding: 50px 20px; border-radius: 12px;">
+        <h2 style="color: #ffffff; font-family: serif; font-style: italic; line-height: 1.5; border-bottom: none; margin: 0; font-weight: 400;">
+          “Marketing is a blend of aesthetic judgment, values, and science.”
+        </h2>
+      </td>
+    </tr>
+  </table>
+  <p align="center" style="color: #4b0082; font-weight: bold; margin-top: 15px; letter-spacing: 2px;">
     CCgogoMKT
-  </h1>
-  <p style="color: #8a2be2; font-style: italic; margin-top: 10px;">
-    Marketing Strategy • Case Lab • Funnel Thinking
   </p>
 </div>
 
