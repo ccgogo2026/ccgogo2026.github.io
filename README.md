@@ -14,8 +14,9 @@
 <table width="100%" style="margin-bottom: 10px;">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
-      <h3 style="margin: 0 0 10px 0; color: #4b0082; border-bottom: none; font-size: 1.4em;">Portfolio</h3>
-      <a href="https://ccgogo2026.github.io/portfolio.pdf" style="color: #7c3aed; text-decoration: none; font-weight: 500;">View My Marketing Portfolio (PDF)</a>
+      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em;">Portfolio</h3>
+      <!-- 使用相对路径确保在 GitHub Pages 中始终有效 -->
+      <a href="./portfolio.pdf" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">View My Marketing Portfolio (PDF)</a>
     </td>
   </tr>
 </table>
@@ -24,8 +25,9 @@
 <table width="100%" style="margin-bottom: 10px;">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
-      <h3 style="margin: 0 0 10px 0; color: #4b0082; border-bottom: none; font-size: 1.4em;">Blog</h3>
-      <a href="https://futuristic-antler-324.notion.site" style="color: #7c3aed; text-decoration: none; font-weight: 500;">Read My Marketing Blog & Insights</a>
+      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em;">Blog</h3>
+      <!-- 如果你的 Notion 链接有变动，请确保此处 URL 正确 -->
+      <a href="https://futuristic-antler-324.notion.site" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">Read My Marketing Blog & Insights</a>
     </td>
   </tr>
 </table>
@@ -34,11 +36,11 @@
 <table width="100%">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
-      <h3 style="margin: 0 0 10px 0; color: #4b0082; border-bottom: none; font-size: 1.4em;">Contact Me</h3>
+      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em;">Contact Me</h3>
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li style="margin-bottom: 8px;"><b>Email:</b> <a href="mailto:ccgogo2024@gmail.com" style="color: #7c3aed;">ccgogo2024@gmail.com</a></li>
         <li style="margin-bottom: 8px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #7c3aed;">Qiao (CC) Xie</a></li>
-        <li><b>The Red 小红书:</b> <a href="https://xhslink.com/m/2zG9DRbpVmc" style="color: #7c3aed;">386057149</a></li>
+        <li><b>The Red 小红书:</b> <a href="https://www.xiaohongshu.com/user/profile/386057149" style="color: #7c3aed;">386057149</a></li>
       </ul>
     </td>
   </tr>
