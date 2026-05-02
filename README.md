@@ -36,9 +36,9 @@
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
       <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em; border-bottom: none;">Contact Me</h3>
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-        <li style="margin-bottom: 8px;"><b>Email:</b> <a href="mailto:ccgogo2024@gmail.com" style="color: #7c3aed;">ccgogo2024@gmail.com</a></li>
-        <li style="margin-bottom: 8px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #7c3aed;">Qiao (CC) Xie</a></li>
-        <li><b>The Red 小红书:</b> <a href="https://www.xiaohongshu.com/user/profile/386057149" style="color: #7c3aed;">386057149</a></li>
+        <li style="margin-bottom: 8px;"><b>Email:</b> <a href="mailto:ccgogo2024@gmail.com" style="color: #7c3aed; text-decoration: none;">ccgogo2024@gmail.com</a></li>
+        <li style="margin-bottom: 8px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/qiao-xie/" target="_blank" style="color: #7c3aed; text-decoration: none;">Qiao (CC) Xie</a></li>
+        <li><b>The Red 小红书:</b> <a href="https://xhslink.com/m/2zG9DRbpVmc" target="_blank" style="color: #7c3aed; text-decoration: none;">386057149</a></li>
       </ul>
     </td>
   </tr>
