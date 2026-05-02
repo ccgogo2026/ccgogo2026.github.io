@@ -13,4 +13,4 @@
 ## Contact Me
 
 * **Email:** <a href="mailto:ccgogo2024@gmail.com" style="color: #007bff !important; text-decoration: underline !important;">ccgogo2024@gmail.com</a>
-* **The Red 小红书:** <a href="https://www.xiaohongshu.com" style="color: #007bff !important; text-decoration: underline !important;">374892789</a>
+* **The Red 小红书:** <a href="https://www.xiaohongshu.com/user/profile/386057149" style="color: #007bff !important; text-decoration: underline !important;">386057149</a>
