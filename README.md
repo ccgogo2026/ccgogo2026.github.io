@@ -13,22 +13,41 @@
 <br/>
 
 ---
-# Portfolio
+<!-- Portfolio 板块 -->
+<table width="100%">
+  <tr>
+    <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 25px;">
+      <h2 style="margin-top: 0; color: #4b0082; border-bottom: none;">Portfolio</h2>
+      <a href="https://ccgogo2026.github.io/portfolio.pdf" style="color: #7c3aed; text-decoration: none; font-weight: 500;">View My Marketing Portfolio (PDF)</a>
+    </td>
+  </tr>
+</table>
 
-[View My Marketing Portfolio (PDF)](https://ccgogo2026.github.io/Cece%20marketing%20profolio.pdf)
+<br/>
 
----
+<!-- Blog 板块 -->
+<table width="100%">
+  <tr>
+    <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 25px;">
+      <h2 style="margin-top: 0; color: #4b0082; border-bottom: none;">Blog</h2>
+      <a href="https://futuristic-antler-324.notion.site" style="color: #7c3aed; text-decoration: none; font-weight: 500;">Read My Marketing Blog & Insights</a>
+    </td>
+  </tr>
+</table>
 
-# Blog
+<br/>
 
-[Read My Marketing Blog & Insights](https://www.notion.so/Blog-352c627111ad80db91fdfa79d6a40f34)
+<!-- Contact Me 板块 -->
+<table width="100%">
+  <tr>
+    <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 25px;">
+      <h2 style="margin-top: 0; color: #4b0082; border-bottom: none;">Contact Me</h2>
+      <ul style="list-style-type: none; padding-left: 0; margin-bottom: 0;">
+        <li style="margin-bottom: 10px;"><b>Email:</b> <a href="mailto:ccgogo2024@gmail.com" style="color: #7c3aed;">ccgogo2024@gmail.com</a></li>
+        <li style="margin-bottom: 10px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #7c3aed;">Qiao (CC) Xie</a></li>
+        <li><b>The Red 小红书:</b> <a href="https://xhslink.com/m/2zG9DRbpVmc" style="color: #7c3aed;">386057149</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
-
-# Contact Me
-
-* **Email:** <a href="mailto:ccgogo2024@gmail.com" style="color: #007bff !important; text-decoration: underline !important;">ccgogo2024@gmail.com</a>
-
-* **LinkedIn:** <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #007bff !important; text-decoration: underline !important;">Qiao (CC) Xie</a>
-
-* **The Red 小红书:** <a href="https://xhslink.com/m/2zG9DRbpVmc" style="color: #007bff !important; text-decoration: underline !important;">386057149</a>
