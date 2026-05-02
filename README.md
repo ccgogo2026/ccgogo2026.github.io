@@ -1,3 +1,13 @@
+<div align="center">
+  <h1 style="background-color: #8a2be2; color: white; padding: 40px; border-radius: 10px; margin-bottom: 0;">
+    CCgogoMKT
+  </h1>
+  <p style="color: #8a2be2; font-style: italic; margin-top: 10px;">
+    Marketing Strategy • Case Lab • Funnel Thinking
+  </p>
+</div>
+
+---
 
 # Portfolio
 
