@@ -11,32 +11,30 @@
 </div>
 
 <!-- Portfolio 板块 -->
-<table width="100%" style="margin-bottom: 10px;">
+<table width="100%" style="margin-bottom: 10px; border-collapse: collapse; border: none;">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
-      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em;">Portfolio</h3>
-      <!-- 使用相对路径确保在 GitHub Pages 中始终有效 -->
-      <a href="./portfolio.pdf" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">View My Marketing Portfolio (PDF)</a>
+      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em; border-bottom: none;">Portfolio</h3>
+      <a href="./Cece%20marketing%20profolio.pdf" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">View My Marketing Portfolio (PDF)</a>
     </td>
   </tr>
 </table>
 
 <!-- Blog 板块 -->
-<table width="100%" style="margin-bottom: 10px;">
+<table width="100%" style="margin-bottom: 10px; border-collapse: collapse; border: none;">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
-      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em;">Blog</h3>
-      <!-- 如果你的 Notion 链接有变动，请确保此处 URL 正确 -->
-      <a href="https://futuristic-antler-324.notion.site" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">Read My Marketing Blog & Insights</a>
+      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em; border-bottom: none;">Blog</h3>
+      <a href="https://www.notion.so/Blog-352c627111ad80db91fdfa79d6a40f34" target="_blank" style="color: #7c3aed; text-decoration: none; font-weight: 500;">Read My Marketing Blog & Insights</a>
     </td>
   </tr>
 </table>
 
 <!-- Contact Me 板块 -->
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="background-color: #faf5ff; border: 1px solid #f3e8ff; border-radius: 12px; padding: 20px;">
-      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em;">Contact Me</h3>
+      <h3 style="margin: 0 0 10px 0; color: #4b0082; border: none; font-size: 1.4em; border-bottom: none;">Contact Me</h3>
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
         <li style="margin-bottom: 8px;"><b>Email:</b> <a href="mailto:ccgogo2024@gmail.com" style="color: #7c3aed;">ccgogo2024@gmail.com</a></li>
         <li style="margin-bottom: 8px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/qiao-xie/" style="color: #7c3aed;">Qiao (CC) Xie</a></li>
@@ -45,4 +43,3 @@
     </td>
   </tr>
 </table>
-
