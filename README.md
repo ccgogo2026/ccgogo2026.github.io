@@ -1,10 +1,10 @@
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="background-color: #4b0082; border: none; padding: 60px 30px; border-radius: 15px;">
-        <h2 style="color: #ffffff; font-family: serif; font-style: italic; line-height: 1.6; border-bottom: none; margin: 0; font-weight: 400; letter-spacing: 0.5px;">
-          “Marketing is a blend of aesthetic judgment, values, and science.”
-        </h2>
+      <td align="center" style="background-color: #4b0082; border: none; padding: 25px 15px;">
+        <p style="color: #ffffff; font-family: 'Helvetica Black', sans-serif; font-weight: 900; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; margin: 0; font-size: 1.2em;">
+          Marketing is a blend of aesthetic judgment, values, and science.
+        </p>
       </td>
     </tr>
   </table>
